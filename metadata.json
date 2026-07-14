@@ -1,0 +1,8 @@
+{
+  "name": "The Urban Peasant Farm Shop",
+  "description": "Bespoke organic lifestyle brand and storytelling website for The Urban Peasant Farm Shop, located in Lower Parel, Mumbai, celebrating traditional stone-ground chakki flours, raw honey, and Vedic A2 Bilona ghee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
